@@ -1,0 +1,17 @@
+tensorflow
+keras
+scikit-learn
+opencv-python
+h5py
+matplotlib
+Pillow
+requests
+psutil
+imageio
+paho-mqtt
+albumentations
+flask
+flask_cors
+kafka-python
+kafka
+six
